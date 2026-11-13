@@ -4,8 +4,6 @@ A lightweight command-line utility written in C that recursively traverses direc
 
 ![Screenshot](screenshot.png)
 
-=======
->>>>>>> b34e5fc6e2de7e663d58f21af93bb0982f26ea3b
 ## Features
 
 * **Recursive Traversal:** Crawls through directories and subdirectories to map out the file structure.
